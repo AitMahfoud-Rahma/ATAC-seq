@@ -1,0 +1,13 @@
+sample,fastq_1,fastq_2,replicate
+y_WT,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/y_WT_1_S1_R1_001.fastq.gz,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/y_WT_1_S1_R2_001.fastq.gz,1
+y_WT,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/y_WT_2_S7_R1_001.fastq.gz,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/y_WT_2_S7_R2_001.fastq.gz,2
+y_cKO,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/y_cKO_1_S2_R1_001.fastq.gz,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/y_cKO_1_S2_R2_001.fastq.gz,1
+y_cKO,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/y_cKO_2_S8_R1_001.fastq.gz,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/y_cKO_2_S8_R2_001.fastq.gz,2
+mid_WT,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/mid_WT_1_S3_R1_001.fastq.gz,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/mid_WT_1_S3_R2_001.fastq.gz,1
+mid_WT,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/mid_WT_2_S9_R1_001.fastq.gz,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/mid_WT_2_S9_R2_001.fastq.gz,2
+mid_cKO,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/mid_cKO_1_S4_R1_001.fastq.gz,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/mid_cKO_1_S4_R2_001.fastq.gz,1
+mid_cKO,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/mid_cKO_2_S10_R1_001.fastq.gz,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/mid_cKO_2_S10_R2_001.fastq.gz,2
+old_WT,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/old_WT_1_S5_R1_001.fastq.gz,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/old_WT_1_S5_R2_001.fastq.gz,1
+old_WT,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/old_WT_2_S11_R1_001.fastq.gz,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/old_WT_2_S11_R2_001.fastq.gz,2
+old_cKO,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/old_cKO_1_S6_R1_001.fastq.gz,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/old_cKO_1_S6_R2_001.fastq.gz,1
+old_cKO,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/old_cKO_2_S12_R1_001.fastq.gz,/shared/projects/sc_hspcs_sex_aging/atac_seq_plzf/FASTQ/old_cKO_2_S12_R2_001.fastq.gz,2
